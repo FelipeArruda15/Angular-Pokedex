@@ -1,6 +1,6 @@
 @import '../../../config-css/variables.css';
 
-:host{
+.listagem{
     display: flex;
 
     justify-content: space-between;
